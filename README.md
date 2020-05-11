@@ -1,2 +1,2 @@
 # Banking-System
-C++ based Project to manage fer core activities of bank
+C++ based Project to manage few core activities of bank
